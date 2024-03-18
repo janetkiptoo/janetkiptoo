@@ -1,7 +1,7 @@
-👋 Welcome to [Your Username]'s GitHub Profile! 👋
+👋 Welcome to Janet kipto's GitHub Profile! 👋
 
 About Me ℹ️
-Hey there! I'm [Your Name], a passionate developer who loves coding and creating cool stuff. I enjoy working on various projects and exploring new technologies.
+Hey there! I'm Janet kiptoo, a passionate developer who loves coding and creating cool stuff. I enjoy working on various projects and exploring new technologies.
 
 My Interests 🚀
 Software Development
@@ -18,9 +18,9 @@ Project Name 3
 Get in Touch 📫
 Feel free to reach out to me through:
 
-Email: your@email.com
+Email: kjanet506@email.com
 LinkedIn: Your LinkedIn Profile
-Twitter: @YourTwitterHandle
+Twitter: @jkiptoo9
 Let's Collaborate! 🤝
 I'm always open to collaboration and new opportunities. If you have any interesting projects or ideas, let's connect and make something awesome together!
 
