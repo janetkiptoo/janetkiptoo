@@ -1,4 +1,4 @@
-👋 Welcome to Janet kipto's GitHub Profile! 👋
+👋 Welcome to Janet kiptoo's GitHub Profile! 👋
 
 About Me ℹ️
 Hey there! I'm Janet kiptoo, a passionate developer who loves coding and creating cool stuff. I enjoy working on various projects and exploring new technologies.
