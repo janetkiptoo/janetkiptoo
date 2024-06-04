@@ -1,7 +1,7 @@
 👋 Welcome to Janet kiptoo's GitHub Profile! 👋
 
-About Me ℹ️
-Hey there! I'm Janet kiptoo, a passionate developer who loves coding and creating cool stuff. I enjoy working on various projects and exploring new technologies.
+About Me 
+Hey there! I'm Janet kiptoo, a passionate growing developer who loves coding and creating cool stuff. I enjoy working on various projects and exploring new technologies.
 
 My Interests 🚀
 Software Development
@@ -10,11 +10,7 @@ Machine Learning
 Data Science
 Open Source
 Current Projects 🛠️
-Here are some projects I'm currently working on:
-
-Project Name 1
-Project Name 2
-Project Name 3
+are enlisted in my repo
 Get in Touch 📫
 Feel free to reach out to me through:
 
